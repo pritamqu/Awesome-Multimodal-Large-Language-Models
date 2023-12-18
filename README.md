@@ -145,11 +145,11 @@ This is the first work to correct hallucinations in MLLMs.
 
 ---
 
-# Results of Available Models [[Unavailable Version](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation)]
+# Results of Unavailable Models [[Available Version](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation)]
 
 <img src="./images/evaluation_chart_private_1218.png" width="70%" height="70%">
 
-# Leaderboards of Available Models [[Unavailable Version](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation)]
+# Leaderboards of Unavailable Models [[Available Version](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation)]
 
 <img src="./images/xmind.png" width="96%" height="96%">
 

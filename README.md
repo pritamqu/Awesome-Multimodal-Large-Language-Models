@@ -159,7 +159,7 @@ The first work to correct hallucinations in MLLMs. :sparkles:
 
 # Results of Unavailable Models [[Available Version](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation)]
 
-<img src="./images/evaluation_chart_private_1218.png" width="70%" height="70%">
+<img src="./images/evaluation_chart_private_1230.png" width="70%" height="70%">
 
 # Leaderboards of Unavailable Models [[Available Version](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/Evaluation)]
 
@@ -182,35 +182,32 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------: |
 |  🏅️   | **[AGILMM](https://github.com/AIResearchEnthusiast/AGILMM)** | **[Bloom-7B](https://github.com/AIResearchEnthusiast/AGILMM)** | **1742.68** |
 |  🥈   |        **[Kanva](https://github.com/llp1992/Kanva)**         |       **[Qwen-14B](https://github.com/llp1992/Kanva)**       | **1666.08** |
-|  🥉   |     **[Honeybee](https://arxiv.org/pdf/2312.06742.pdf)**     |   **[Vicuna-13B](https://github.com/kakaobrain/honeybee)**   | **1661.13** |
-|  4   |          [CVLM](https://github.com/buptlihang/CVLM)          |       [Vicuna-13B](https://github.com/buptlihang/CVLM)       |   1636.45   |
-|  5   |        [Lion](https://github.com/mynameischaos/Lion)         |     [InternLM-7B](https://github.com/mynameischaos/Lion)     |   1545.80   |
-|  6   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) |   1419.08   |
-|  7   | [Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | [MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning) |   1095.75   |
+|  🥉   |        **[CVLM](https://github.com/buptlihang/CVLM)**        |     **[Vicuna-13B](https://github.com/buptlihang/CVLM)**     | **1636.45** |
+|  4   |        [Lion](https://github.com/mynameischaos/Lion)         |     [InternLM-7B](https://github.com/mynameischaos/Lion)     |   1545.80   |
+|  5   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) |   1419.08   |
+|  6   | [Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | [MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning) |   1095.75   |
 
 ### Existence
 
 | Rank |                            Model                             |                           Version                            |   Score    |
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
 |  🏅️   |        **[Kanva](https://github.com/llp1992/Kanva)**         |       **[Qwen-14B](https://github.com/llp1992/Kanva)**       | **195.00** |
-|  🥈   |      **[Lion](https://github.com/mynameischaos/Lion)**       |   **[InternLM-7B](https://github.com/mynameischaos/Lion)**   | **190.00** |
-|  🥉   |        **[CVLM](https://github.com/buptlihang/CVLM)**        |     **[Vicuna-13B](https://github.com/buptlihang/CVLM)**     | **185.00** |
-|  🥉   | **[AGILMM](https://github.com/AIResearchEnthusiast/AGILMM)** | **[Bloom-7B](https://github.com/AIResearchEnthusiast/AGILMM)** | **185.00** |
-|  🥉   |     **[Honeybee](https://arxiv.org/pdf/2312.06742.pdf)**     |   **[Vicuna-13B](https://github.com/kakaobrain/honeybee)**   | **185.00** |
-|  4   | [Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | [MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning) |   180.00   |
-|  4   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) |   180.00   |
+|  🏅️   |      **[Lion](https://github.com/mynameischaos/Lion)**       |   **[InternLM-7B](https://github.com/mynameischaos/Lion)**   | **190.00** |
+|  🥈   |        **[CVLM](https://github.com/buptlihang/CVLM)**        |     **[Vicuna-13B](https://github.com/buptlihang/CVLM)**     | **185.00** |
+|  🥈   | **[AGILMM](https://github.com/AIResearchEnthusiast/AGILMM)** | **[Bloom-7B](https://github.com/AIResearchEnthusiast/AGILMM)** | **185.00** |
+|  🥉   | **[Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning)** | **[MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning)** | **180.00** |
+|  🥉   | **[Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main)** | **[Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main)** | **180.00** |
 
 ### Count
 
 | Rank |                            Model                             |                           Version                            |   Score    |
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
-|  🏅️   |     **[Honeybee](https://arxiv.org/pdf/2312.06742.pdf)**     |   **[Vicuna-13B](https://github.com/kakaobrain/honeybee)**   | **170.00** |
-|  🥈   |        **[Kanva](https://github.com/llp1992/Kanva)**         |       **[Qwen-14B](https://github.com/llp1992/Kanva)**       | **156.67** |
-|  🥉   |      **[Lion](https://github.com/mynameischaos/Lion)**       |   **[InternLM-7B](https://github.com/mynameischaos/Lion)**   | **155.00** |
-|  🥉   |        **[CVLM](https://github.com/buptlihang/CVLM)**        |     **[Vicuna-13B](https://github.com/buptlihang/CVLM)**     | **155.00** |
-|  5   |   [AGILMM](https://github.com/AIResearchEnthusiast/AGILMM)   |  [Bloom-7B](https://github.com/AIResearchEnthusiast/AGILMM)  |   153.33   |
-|  6   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) |   151.67   |
-|  7   | [Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | [MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning) |   53.33    |
+|  🏅️   |        **[Kanva](https://github.com/llp1992/Kanva)**         |       **[Qwen-14B](https://github.com/llp1992/Kanva)**       | **156.67** |
+|  🥈   |      **[Lion](https://github.com/mynameischaos/Lion)**       |   **[InternLM-7B](https://github.com/mynameischaos/Lion)**   | **155.00** |
+|  🥈   |        **[CVLM](https://github.com/buptlihang/CVLM)**        |     **[Vicuna-13B](https://github.com/buptlihang/CVLM)**     | **155.00** |
+|  🥉   | **[AGILMM](https://github.com/AIResearchEnthusiast/AGILMM)** | **[Bloom-7B](https://github.com/AIResearchEnthusiast/AGILMM)** | **153.33** |
+|  4   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) |   151.67   |
+|  5   | [Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | [MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning) |   53.33    |
 
 ### Position
 
@@ -218,11 +215,10 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
 |  🏅️   |        **[Kanva](https://github.com/llp1992/Kanva)**         |       **[Qwen-14B](https://github.com/llp1992/Kanva)**       | **185.00** |
 |  🥈   |        **[CVLM](https://github.com/buptlihang/CVLM)**        |     **[Vicuna-13B](https://github.com/buptlihang/CVLM)**     | **178.33** |
-|  🥉   |     **[Honeybee](https://arxiv.org/pdf/2312.06742.pdf)**     |   **[Vicuna-13B](https://github.com/kakaobrain/honeybee)**   | **155.00** |
-|  4   |        [Lion](https://github.com/mynameischaos/Lion)         |     [InternLM-7B](https://github.com/mynameischaos/Lion)     |   153.33   |
-|  5   |   [AGILMM](https://github.com/AIResearchEnthusiast/AGILMM)   |  [Bloom-7B](https://github.com/AIResearchEnthusiast/AGILMM)  |   138.33   |
-|  6   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) |   63.33    |
-|  7   | [Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | [MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning) |   48.33    |
+|  🥉   |      **[Lion](https://github.com/mynameischaos/Lion)**       |   **[InternLM-7B](https://github.com/mynameischaos/Lion)**   | **153.33** |
+|  4   |   [AGILMM](https://github.com/AIResearchEnthusiast/AGILMM)   |  [Bloom-7B](https://github.com/AIResearchEnthusiast/AGILMM)  |   138.33   |
+|  5   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) |   63.33    |
+|  6   | [Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | [MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning) |   48.33    |
 
 ### Color
 
@@ -231,10 +227,9 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  🏅️   |        **[CVLM](https://github.com/buptlihang/CVLM)**        |     **[Vicuna-13B](https://github.com/buptlihang/CVLM)**     | **185.00** |
 |  🥈   |      **[Lion](https://github.com/mynameischaos/Lion)**       |   **[InternLM-7B](https://github.com/mynameischaos/Lion)**   | **180.00** |
 |  🥈   | **[AGILMM](https://github.com/AIResearchEnthusiast/AGILMM)** | **[Bloom-7B](https://github.com/AIResearchEnthusiast/AGILMM)** | **180.00** |
-|  🥈   |     **[Honeybee](https://arxiv.org/pdf/2312.06742.pdf)**     |   **[Vicuna-13B](https://github.com/kakaobrain/honeybee)**   | **180.00** |
 |  🥉   |        **[Kanva](https://github.com/llp1992/Kanva)**         |       **[Qwen-14B](https://github.com/llp1992/Kanva)**       | **160.00** |
-|  4   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) |   145.00   |
-|  5   | [Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | [MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning) |   103.33   |
+|  5   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) |   145.00   |
+|  6   | [Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | [MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning) |   103.33   |
 
 ### Poster
 
@@ -242,35 +237,32 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
 |  🏅️   |      **[Lion](https://github.com/mynameischaos/Lion)**       |   **[InternLM-7B](https://github.com/mynameischaos/Lion)**   | **181.63** |
 |  🥈   | **[Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main)** | **[Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main)** | **175.85** |
-|  🥉   |     **[Honeybee](https://arxiv.org/pdf/2312.06742.pdf)**     |   **[Vicuna-13B](https://github.com/kakaobrain/honeybee)**   | **170.07** |
-|  4   |   [AGILMM](https://github.com/AIResearchEnthusiast/AGILMM)   |  [Bloom-7B](https://github.com/AIResearchEnthusiast/AGILMM)  |   169.05   |
-|  5   |          [CVLM](https://github.com/buptlihang/CVLM)          |       [Vicuna-13B](https://github.com/buptlihang/CVLM)       |   162.24   |
-|  6   |          [Kanva](https://github.com/llp1992/Kanva)           |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   140.82   |
-|  7   | [Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | [MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning) |   138.10   |
+|  🥉   | **[AGILMM](https://github.com/AIResearchEnthusiast/AGILMM)** | **[Bloom-7B](https://github.com/AIResearchEnthusiast/AGILMM)** | **169.05** |
+|  4   |          [CVLM](https://github.com/buptlihang/CVLM)          |       [Vicuna-13B](https://github.com/buptlihang/CVLM)       |   162.24   |
+|  5   |          [Kanva](https://github.com/llp1992/Kanva)           |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   140.82   |
+|  6   | [Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | [MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning) |   138.10   |
 
 ### Celebrity
 
 | Rank |                            Model                             |                           Version                            |   Score    |
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
 |  🏅️   | **[AGILMM](https://github.com/AIResearchEnthusiast/AGILMM)** | **[Bloom-7B](https://github.com/AIResearchEnthusiast/AGILMM)** | **196.47** |
-|  🥈   |     **[Honeybee](https://arxiv.org/pdf/2312.06742.pdf)**     |   **[Vicuna-13B](https://github.com/kakaobrain/honeybee)**   | **177.06** |
-|  🥉   | **[Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main)** | **[Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main)** | **160.29** |
-|  4   |          [CVLM](https://github.com/buptlihang/CVLM)          |       [Vicuna-13B](https://github.com/buptlihang/CVLM)       |   155.88   |
-|  5   |        [Lion](https://github.com/mynameischaos/Lion)         |     [InternLM-7B](https://github.com/mynameischaos/Lion)     |   150.59   |
-|  6   |          [Kanva](https://github.com/llp1992/Kanva)           |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   145.00   |
-|  7   | [Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | [MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning) |   129.41   |
+|  🥈   | **[Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main)** | **[Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main)** | **160.29** |
+|  🥉   |        **[CVLM](https://github.com/buptlihang/CVLM)**        |     **[Vicuna-13B](https://github.com/buptlihang/CVLM)**     | **155.88** |
+|  4   |        [Lion](https://github.com/mynameischaos/Lion)         |     [InternLM-7B](https://github.com/mynameischaos/Lion)     |   150.59   |
+|  5   |          [Kanva](https://github.com/llp1992/Kanva)           |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   145.00   |
+|  6   | [Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | [MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning) |   129.41   |
 
 ### Scene
 
-| Rank |                            Model                             |                           Version                            |   Score    |
-| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
-|  🏅️   | **[AGILMM](https://github.com/AIResearchEnthusiast/AGILMM)** | **[Bloom-7B](https://github.com/AIResearchEnthusiast/AGILMM)** | **191.75** |
-|  🥈   |        **[Kanva](https://github.com/llp1992/Kanva)**         |       **[Qwen-14B](https://github.com/llp1992/Kanva)**       | **179.75** |
-|  🥉   |        **[CVLM](https://github.com/buptlihang/CVLM)**        |     **[Vicuna-13B](https://github.com/buptlihang/CVLM)**     | **162.75** |
-|  4   |       [Honeybee](https://arxiv.org/pdf/2312.06742.pdf)       |     [Vicuna-13B](https://github.com/kakaobrain/honeybee)     |   162.00   |
-|  5   |        [Lion](https://github.com/mynameischaos/Lion)         |     [InternLM-7B](https://github.com/mynameischaos/Lion)     |   159.00   |
-|  6   | [Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | [MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning) |   157.25   |
-|  7   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) |   138.89   |
+| Rank |                            Model                             |                           Version                            | Score  |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----: |
+|  🏅️   |   [AGILMM](https://github.com/AIResearchEnthusiast/AGILMM)   |  [Bloom-7B](https://github.com/AIResearchEnthusiast/AGILMM)  | 191.75 |
+|  🥈   |          [Kanva](https://github.com/llp1992/Kanva)           |         [Qwen-14B](https://github.com/llp1992/Kanva)         | 179.75 |
+|  🥉   |          [CVLM](https://github.com/buptlihang/CVLM)          |       [Vicuna-13B](https://github.com/buptlihang/CVLM)       | 162.75 |
+|  4   |        [Lion](https://github.com/mynameischaos/Lion)         |     [InternLM-7B](https://github.com/mynameischaos/Lion)     | 159.00 |
+|  5   | [Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | [MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | 157.25 |
+|  6   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) | 138.89 |
 
 ### Landmark
 
@@ -279,10 +271,9 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 |  🏅️   | **[AGILMM](https://github.com/AIResearchEnthusiast/AGILMM)** | **[Bloom-7B](https://github.com/AIResearchEnthusiast/AGILMM)** | **196.25** |
 |  🥈   |        **[Kanva](https://github.com/llp1992/Kanva)**         |       **[Qwen-14B](https://github.com/llp1992/Kanva)**       | **184.34** |
 |  🥉   |      **[Lion](https://github.com/mynameischaos/Lion)**       |   **[InternLM-7B](https://github.com/mynameischaos/Lion)**   | **173.00** |
-|  4   |       [Honeybee](https://arxiv.org/pdf/2312.06742.pdf)       |     [Vicuna-13B](https://github.com/kakaobrain/honeybee)     |   172.25   |
-|  5   |          [CVLM](https://github.com/buptlihang/CVLM)          |       [Vicuna-13B](https://github.com/buptlihang/CVLM)       |   169.50   |
-|  6   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) |   127.04   |
-|  7   | [Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | [MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning) |   126.00   |
+|  4   |          [CVLM](https://github.com/buptlihang/CVLM)          |       [Vicuna-13B](https://github.com/buptlihang/CVLM)       |   169.50   |
+|  5   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) |   127.04   |
+|  6   | [Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | [MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning) |   126.00   |
 
 ### Artwork
 
@@ -290,11 +281,10 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
 |  🏅️   | **[AGILMM](https://github.com/AIResearchEnthusiast/AGILMM)** | **[Bloom-7B](https://github.com/AIResearchEnthusiast/AGILMM)** | **185.00** |
 |  🥈   |        **[Kanva](https://github.com/llp1992/Kanva)**         |       **[Qwen-14B](https://github.com/llp1992/Kanva)**       | **167.00** |
-|  🥉   |     **[Honeybee](https://arxiv.org/pdf/2312.06742.pdf)**     |   **[Vicuna-13B](https://github.com/kakaobrain/honeybee)**   | **134.75** |
-|  5   |        [Lion](https://github.com/mynameischaos/Lion)         |     [InternLM-7B](https://github.com/mynameischaos/Lion)     |   130.75   |
-|  6   |          [CVLM](https://github.com/buptlihang/CVLM)          |       [Vicuna-13B](https://github.com/buptlihang/CVLM)       |   127.75   |
-|  7   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) |   114.51   |
-|  8   | [Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | [MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning) |   95.00    |
+|  🥉   |      **[Lion](https://github.com/mynameischaos/Lion)**       |   **[InternLM-7B](https://github.com/mynameischaos/Lion)**   | **130.75** |
+|  4   |          [CVLM](https://github.com/buptlihang/CVLM)          |       [Vicuna-13B](https://github.com/buptlihang/CVLM)       |   127.75   |
+|  5   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) |   114.51   |
+|  6   | [Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | [MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning) |   95.00    |
 
 ### OCR
 
@@ -302,11 +292,10 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
 |  🏅️   | **[Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main)** | **[Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main)** | **162.50** |
 |  🥈   |        **[CVLM](https://github.com/buptlihang/CVLM)**        |     **[Vicuna-13B](https://github.com/buptlihang/CVLM)**     | **155.00** |
-|  🥈   |     **[Honeybee](https://arxiv.org/pdf/2312.06742.pdf)**     |   **[Vicuna-13B](https://github.com/kakaobrain/honeybee)**   | **155.00** |
 |  🥉   |        **[Kanva](https://github.com/llp1992/Kanva)**         |       **[Qwen-14B](https://github.com/llp1992/Kanva)**       | **152.50** |
-|  5   |   [AGILMM](https://github.com/AIResearchEnthusiast/AGILMM)   |  [Bloom-7B](https://github.com/AIResearchEnthusiast/AGILMM)  |   147.50   |
-|  6   |        [Lion](https://github.com/mynameischaos/Lion)         |     [InternLM-7B](https://github.com/mynameischaos/Lion)     |   72.50    |
-|  7   | [Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | [MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning) |   65.00    |
+|  4   |   [AGILMM](https://github.com/AIResearchEnthusiast/AGILMM)   |  [Bloom-7B](https://github.com/AIResearchEnthusiast/AGILMM)  |   147.50   |
+|  5   |        [Lion](https://github.com/mynameischaos/Lion)         |     [InternLM-7B](https://github.com/mynameischaos/Lion)     |   72.50    |
+|  6   | [Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | [MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning) |   65.00    |
 
 ## Cognition
 
@@ -318,9 +307,8 @@ Sum of the scores of all cognition subtasks, including commonsense reasoning, nu
 |  🥈   | **[AGILMM](https://github.com/AIResearchEnthusiast/AGILMM)** | **[Bloom-7B](https://github.com/AIResearchEnthusiast/AGILMM)** | **448.57** |
 |  🥉   |      **[Lion](https://github.com/mynameischaos/Lion)**       |   **[InternLM-7B](https://github.com/mynameischaos/Lion)**   | **445.71** |
 |  4   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) |   356.43   |
-|  5   |       [Honeybee](https://arxiv.org/pdf/2312.06742.pdf)       |     [Vicuna-13B](https://github.com/kakaobrain/honeybee)     |   315.36   |
-|  6   | [Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | [MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning) |   312.50   |
-|  7   |          [Kanva](https://github.com/llp1992/Kanva)           |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   217.14   |
+|  5   | [Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | [MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning) |   312.50   |
+|  6   |          [Kanva](https://github.com/llp1992/Kanva)           |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   217.14   |
 
 ### Commonsense Reasoning
 
@@ -329,10 +317,9 @@ Sum of the scores of all cognition subtasks, including commonsense reasoning, nu
 |  🏅️   | **[AGILMM](https://github.com/AIResearchEnthusiast/AGILMM)** | **[Bloom-7B](https://github.com/AIResearchEnthusiast/AGILMM)** | **138.57** |
 |  🥈   |        **[CVLM](https://github.com/buptlihang/CVLM)**        |     **[Vicuna-13B](https://github.com/buptlihang/CVLM)**     | **131.43** |
 |  🥉   | **[Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main)** | **[Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main)** | **126.43** |
-|  5   |        [Lion](https://github.com/mynameischaos/Lion)         |     [InternLM-7B](https://github.com/mynameischaos/Lion)     |   125.71   |
-|  6   |       [Honeybee](https://arxiv.org/pdf/2312.06742.pdf)       |     [Vicuna-13B](https://github.com/kakaobrain/honeybee)     |   122.86   |
-|  7   | [Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | [MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning) |   100.00   |
-|  8   |          [Kanva](https://github.com/llp1992/Kanva)           |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   72.14    |
+|  4   |        [Lion](https://github.com/mynameischaos/Lion)         |     [InternLM-7B](https://github.com/mynameischaos/Lion)     |   125.71   |
+|  5   | [Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | [MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning) |   100.00   |
+|  6   |          [Kanva](https://github.com/llp1992/Kanva)           |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   72.14    |
 
 ### Numerical Calculation
 
@@ -341,10 +328,9 @@ Sum of the scores of all cognition subtasks, including commonsense reasoning, nu
 |  🏅️   |        **[CVLM](https://github.com/buptlihang/CVLM)**        |     **[Vicuna-13B](https://github.com/buptlihang/CVLM)**     | **137.50** |
 |  🥈   |      **[Lion](https://github.com/mynameischaos/Lion)**       |   **[InternLM-7B](https://github.com/mynameischaos/Lion)**   | **105.00** |
 |  🥉   | **[Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main)** | **[Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main)** | **95.00**  |
-|  5   |   [AGILMM](https://github.com/AIResearchEnthusiast/AGILMM)   |  [Bloom-7B](https://github.com/AIResearchEnthusiast/AGILMM)  |   57.50    |
-|  5   |       [Honeybee](https://arxiv.org/pdf/2312.06742.pdf)       |     [Vicuna-13B](https://github.com/kakaobrain/honeybee)     |   57.50    |
-|  6   |          [Kanva](https://github.com/llp1992/Kanva)           |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   50.00    |
-|  7   | [Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | [MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning) |   47.50    |
+|  4   |   [AGILMM](https://github.com/AIResearchEnthusiast/AGILMM)   |  [Bloom-7B](https://github.com/AIResearchEnthusiast/AGILMM)  |   57.50    |
+|  5   |          [Kanva](https://github.com/llp1992/Kanva)           |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   50.00    |
+|  6   | [Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | [MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning) |   47.50    |
 
 ### Text Translation
 
@@ -354,7 +340,6 @@ Sum of the scores of all cognition subtasks, including commonsense reasoning, nu
 |  🥈   |      **[Lion](https://github.com/mynameischaos/Lion)**       |   **[InternLM-7B](https://github.com/mynameischaos/Lion)**   | **147.50** |
 |  🥈   |        **[CVLM](https://github.com/buptlihang/CVLM)**        |     **[Vicuna-13B](https://github.com/buptlihang/CVLM)**     | **147.50** |
 |  🥉   | **[Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning)** | **[MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning)** | **102.50** |
-|  4   |       [Honeybee](https://arxiv.org/pdf/2312.06742.pdf)       |     [Vicuna-13B](https://github.com/kakaobrain/honeybee)     |   87.50    |
 |  5   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) |   80.00    |
 |  6   |          [Kanva](https://github.com/llp1992/Kanva)           |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   50.00    |
 
@@ -365,7 +350,6 @@ Sum of the scores of all cognition subtasks, including commonsense reasoning, nu
 |  🏅️   |        **[CVLM](https://github.com/buptlihang/CVLM)**        |     **[Vicuna-13B](https://github.com/buptlihang/CVLM)**     | **72.50** |
 |  🥈   |      **[Lion](https://github.com/mynameischaos/Lion)**       |   **[InternLM-7B](https://github.com/mynameischaos/Lion)**   | **67.50** |
 |  🥉   | **[Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning)** | **[MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning)** | **62.50** |
-|  5   |   [AGILMM](https://github.com/AIResearchEnthusiast/AGILMM)   |  [Bloom-7B](https://github.com/AIResearchEnthusiast/AGILMM)  |   60.00   |
-|  6   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) |   55.00   |
-|  7   |       [Honeybee](https://arxiv.org/pdf/2312.06742.pdf)       |     [Vicuna-13B](https://github.com/kakaobrain/honeybee)     |   47.50   |
-|  8   |          [Kanva](https://github.com/llp1992/Kanva)           |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   45.00   |
+|  4   |   [AGILMM](https://github.com/AIResearchEnthusiast/AGILMM)   |  [Bloom-7B](https://github.com/AIResearchEnthusiast/AGILMM)  |   60.00   |
+|  5   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) |   55.00   |
+|  6   |          [Kanva](https://github.com/llp1992/Kanva)           |         [Qwen-14B](https://github.com/llp1992/Kanva)         |   45.00   |

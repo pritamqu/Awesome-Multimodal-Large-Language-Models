@@ -261,14 +261,14 @@ Sum of the scores of all perception subtasks, including existence, count, positi
 
 ### Scene
 
-| Rank |                            Model                             |                           Version                            | Score  |
-| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----: |
-|  🏅️   |   [AGILMM](https://github.com/AIResearchEnthusiast/AGILMM)   |  [Bloom-7B](https://github.com/AIResearchEnthusiast/AGILMM)  | 191.75 |
-|  🥈   |          [Kanva](https://github.com/llp1992/Kanva)           |         [Qwen-14B](https://github.com/llp1992/Kanva)         | 179.75 |
-|  🥉   |          [CVLM](https://github.com/buptlihang/CVLM)          |       [Vicuna-13B](https://github.com/buptlihang/CVLM)       | 162.75 |
-|  4   |        [Lion](https://github.com/mynameischaos/Lion)         |     [InternLM-7B](https://github.com/mynameischaos/Lion)     | 159.00 |
-|  5   | [Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | [MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | 157.25 |
-|  6   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) | 138.89 |
+| Rank |                            Model                             |                           Version                            |   Score    |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
+|  🏅️   | **[AGILMM](https://github.com/AIResearchEnthusiast/AGILMM)** | **[Bloom-7B](https://github.com/AIResearchEnthusiast/AGILMM)** | **191.75** |
+|  🥈   |        **[Kanva](https://github.com/llp1992/Kanva)**         |       **[Qwen-14B](https://github.com/llp1992/Kanva)**       | **179.75** |
+|  🥉   |        **[CVLM](https://github.com/buptlihang/CVLM)**        |     **[Vicuna-13B](https://github.com/buptlihang/CVLM)**     | **162.75** |
+|  4   |        [Lion](https://github.com/mynameischaos/Lion)         |     [InternLM-7B](https://github.com/mynameischaos/Lion)     |   159.00   |
+|  5   | [Octopus](https://github.com/gray311/UnifiedMultimodalInstructionTuning) | [MPT7B](https://github.com/gray311/UnifiedMultimodalInstructionTuning) |   157.25   |
+|  6   | [Skywork-MM](https://github.com/will-singularity/Skywork-MM/tree/main) | [Skywork-MM-13B](https://github.com/will-singularity/Skywork-MM/tree/main) |   138.89   |
 
 ### Landmark
 
